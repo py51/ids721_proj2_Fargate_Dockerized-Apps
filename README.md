@@ -1,1 +1,0 @@
-# ids721_proj2_Fargate_Dockerized-Apps
